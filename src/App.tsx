@@ -12,6 +12,7 @@ function App() {
       <h4>Cicrano 1.2</h4>
 
       <h5>Cicrano 2.1</h5>
+      <h5>Cicrano 2.2</h5>
     </>
   )
 }
